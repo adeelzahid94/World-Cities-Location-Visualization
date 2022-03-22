@@ -1,4 +1,5 @@
 # World-Cities-Location-Visualization
+### Visualizing cities of the world on a map using their geographical location
 
 - I read cities geographical location from "world_cities.txt" file in which each line describes a world city.
 

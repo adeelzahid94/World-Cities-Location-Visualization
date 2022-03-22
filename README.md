@@ -8,3 +8,4 @@
 
   > co,San Diego,10,8014,10.3375,-73.1825
 
+Note: Recommended to run this code in Jupyter notebook for animation to work properly
